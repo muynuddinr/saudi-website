@@ -95,7 +95,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <h2 className="text-2xl font-bold text-blue-900 mb-4">Company Name</h2>
+            <h2 className="text-2xl font-bold text-blue-900 mb-4">Digitallink Saudi</h2>
             <p className="text-blue-700 mb-6 max-w-md">
               ⚡ Empowering businesses with innovative solutions. We're dedicated to transforming ideas into exceptional digital experiences. 
               From pixel-perfect designs to lightning-fast performance, we craft digital masterpieces that leave lasting impressions. 
@@ -140,7 +140,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="mt-16 pt-8 border-t border-blue-100">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-blue-700 text-sm">© {currentYear} Company Name. All rights reserved.</p>
+            <p className="text-blue-700 text-sm">© {currentYear} Digitallink Saudi. All rights reserved.</p>
           </div>
         </div>
       </div>
